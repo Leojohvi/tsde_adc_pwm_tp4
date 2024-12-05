@@ -1,0 +1,5 @@
+../app/src/task_adc.c:79:6:task_adc_init	24	static,ignoring_inline_asm
+../app/src/task_adc.c:92:6:task_adc_update	40	static,ignoring_inline_asm
+../app/src/task_adc.c:110:19:ADC_Poll_Read	24	static
+../app/src/task_adc.c:123:6:HAL_ADC_ConvCpltCallback	16	static
+../app/src/task_adc.c:131:6:test3_tick	16	static,ignoring_inline_asm

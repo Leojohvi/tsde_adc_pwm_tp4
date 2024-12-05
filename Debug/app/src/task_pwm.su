@@ -1,0 +1,4 @@
+../app/src/task_pwm.c:72:6:test1_tick	104	static
+../app/src/task_pwm.c:102:6:task_pwm_init	24	static,ignoring_inline_asm
+../app/src/task_pwm.c:108:6:task_pwm_update	16	static
+../app/src/task_pwm.c:115:6:setPWM	40	static
